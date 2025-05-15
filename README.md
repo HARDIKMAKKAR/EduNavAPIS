@@ -22,3 +22,14 @@ server.js → Entry point for the app
 - JWT-based authentication and route protection
 - Socket.IO integration for real-time updates
 - Scalable and modular code structure
+
+## 🧪 Setup Instructions
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/HARDIKMAKKAR/EduNavAPIS
+
+2 . **Install dependencies**
+
+npm install 
